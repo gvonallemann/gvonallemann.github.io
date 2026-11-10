@@ -1,0 +1,4 @@
+# app-ads.txt for apps published by this developer (Google Play "Website" field must point to this site).
+# Google AdMob
+google.com, pub-5733671934020131, DIRECT, f08c47fec0942fa0
+# Add the Unity Ads and Mintegral lines from their dashboards here once mediation is set up.
